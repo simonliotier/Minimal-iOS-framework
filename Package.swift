@@ -19,7 +19,7 @@ let package = Package(
         // Targets can depend on other targets in this package and products from dependencies.
         .binaryTarget(
             name: "Minimal",
-            url: "https://github.com/simonliotier/Minimal-iOS/releases/download/1.0.0/Minimal.xcframework.zip",
+            url: "https://github.com/simonliotier/Minimal-iOS-framework/releases/download/1.0.0/Minimal.xcframework.zip",
             checksum: "211f1a8603c16f2204f2693794d07b3879b3efd79820afacce556c8b3884bfb7"
         )
     ]
